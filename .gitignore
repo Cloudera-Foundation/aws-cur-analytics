@@ -1,0 +1,6 @@
+data_csv/
+.vscode/
+grantees.ini
+workspace.code-workspace
+AWS_CUR_Troubleshooting.ipynb
+AWS_Cost_Report.ipynb
